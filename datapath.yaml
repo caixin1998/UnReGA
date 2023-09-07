@@ -3,11 +3,11 @@
     image: "/data1/GazeData/eth/train/Image"
     label: "/data1/GazeData/eth/train/Label"
   mpii:
-    image: "/home/caixin/GazeData/MPIIFaceGaze/Image"
-    label: "/home/caixin/GazeData/MPIIFaceGaze/Label"
+    image: "/data1/GazeData/MPIIFaceGaze/Image"
+    label: "/data1/GazeData/MPIIFaceGaze/Label"
   mpiires:
-    image: "/data1/GazeData/MPIIRes/full_eye_gaze_iq_gan_15000/Image"
-    label: "/data1/GazeData/MPIIRes/full_eye_gaze_iq_gan_15000/Label"
+    image: "/data1/GazeData/MPIIRes/Image"
+    label: "/data1/GazeData/MPIIRes/Label"
 
 
   
